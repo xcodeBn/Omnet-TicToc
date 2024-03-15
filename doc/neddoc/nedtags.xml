@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<tagfile>
+  <compound kind="class">
+    <name>ned.DatarateChannel</name>
+    <filename>ned.DatarateChannel.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>ned.DelayChannel</name>
+    <filename>ned.DelayChannel.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>ned.IBidirectionalChannel</name>
+    <filename>ned.IBidirectionalChannel.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>ned.IdealChannel</name>
+    <filename>ned.IdealChannel.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>ned.IUnidirectionalChannel</name>
+    <filename>ned.IUnidirectionalChannel.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Tic5</name>
+    <filename>Tic5.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Tictoc1</name>
+    <filename>Tictoc1.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Tictoc2</name>
+    <filename>Tictoc2.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Tictoc3</name>
+    <filename>Tictoc3.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Tictoc4</name>
+    <filename>Tictoc4.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>TicToc5</name>
+    <filename>TicToc5.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Tictoc6</name>
+    <filename>Tictoc6.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Toc5</name>
+    <filename>Toc5.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Txc1</name>
+    <filename>Txc1.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Txc2</name>
+    <filename>Txc2.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Txc3</name>
+    <filename>Txc3.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Txc4</name>
+    <filename>Txc4.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Txc5</name>
+    <filename>Txc5.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>Txc6</name>
+    <filename>Txc6.html</filename>
+  </compound>
+</tagfile>
